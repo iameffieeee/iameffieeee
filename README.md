@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joana Franchesca Trinidad</h1>
-<h3 align="center">A passionate Computer Science Student from Philippines</h3>
+<h3 align="center">Computer Science enthusiast from the Philippines, passionate about software development and dedicated to building innovative and efficient solutions</h3>
 
 - 📫 How to reach me **joanatrinidad2001@gmail.com**
 
